@@ -33,7 +33,7 @@ if __name__ == "__main__":
     
     #tableName = "yellowtripdata"
     # You can download the sample Parquet file from this site "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" and upload it to the files section of the lakehouse. 
-    parquetFilePath = "Files/yellow_tripdata_2022-01.parquet"
+    parquetFilePath = "C:\Users\SOFTROCK\Downloads\createTablefromParquet.py"
     #deltaTablePath = SaveToLH + "/Tables/" + tableName
     deltaTablePath = "Tables/yellowtrip"
 
